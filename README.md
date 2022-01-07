@@ -24,7 +24,7 @@
 
 **Happy to see you here!** 🤩
 
-Student at 1337 School focused on Software engineering, Web Developement and competitive programming. 
+Student at 1337 School focused on Software engineering, Web Development and competitive programming. 
 
 **Talking about Personal Stuffs:**
 
