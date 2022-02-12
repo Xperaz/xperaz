@@ -1,62 +1,76 @@
+<!--### Hi there, I'm Azedine Ouhadou
+<img src="https://komarev.com/ghpvc/?username=xperaz&color=blueviolet" alt="xperaz">
+<a style="color: #1C9CEA;" href="https://twitter.com/OuhadouAzedine">
+  <img align="left" alt="xperaz's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/AzedineOuhadou/">
+  <img align="left" alt="xperaz's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/xperaz">
+  <img align="left" alt="xperaz's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br>
+- 👋 Hi, I’m @xperaz <br>
+- 👀 I’m interested in Web Development <br>
+- 🌱 I’m currently learning ... <br>
+- 💞️ I’m looking to collaborate on ... <br>
+- 📫 How to reach me ... <br>
+xperaz/xperaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<h1 align="center">Hi 👋, I'm Azedine Ouhadou</h1>
+<h3 align="center">Programmer | Developer | Learner | 1337 Student.</h3>
 
-## Hola, I'm [Azedine Ouhadou](https://twitter.com/OuhadouAzedine) 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xperaz&label=Profile%20views&color=0e75b6&style=flat" alt="xperaz" /> </p>
 
-<p align="left"> <img src="https://pbs.twimg.com/profile_images/1233479440707002368/BvLaNwXV_400x400.jpg" alt="Xperaz" /> </p>
 
-<a href="https://twitter.com/OuhadouAzedine">
-  <img align="left" alt="Xperaz's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<p align="left"> <a href="https://twitter.com/OuhadouAzedine" target="blank"><img src="https://img.shields.io/twitter/follow/OuhadouAzedine?logo=twitter&style=for-the-badge" alt="OuhadouAzedine" /></a> </p>
+
+- 🔭 I’m currently working on **Push Swap**
+
+- 🌱 I’m currently learning **Javascript**
+
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **aouhadou@student.1337.ma**
+<br>
+<h2 style="color: blue" > 42 Cursus <h2>
+<img src="https://badge42.herokuapp.com/api/stats/aouhadou?privacyEmail=true)](https://github.com/JaeSeoKim/badge42" />
+<br>
+  <!--
+  <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&white=true&login=aouhadou" />
+<br> -->
+  
+
+  
+<h3>Connect with me:</h3>
+
+<a href="https://github.com/xperaz" target="_blank">
+  <img align="left" alt="github" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/azedine-ouhadou-56799519b/">
-  <img align="left" alt="Xperaz's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+<a href="https://twitter.com/OuhadouAzedine" target="_blank">
+  <img align="left" alt="twitter" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
 </a>
 
-<a href="https://github.com/Xperaz">
-  <img align="left" alt="Xperaz's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://linkedin.com/in/AzedineOuhadou" target="_blank">
+  <img align="left" alt="linkedin" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.facebook.com/azdine.ohaddou">
-  <img align="left" alt="Xperaz's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
+<br>
+  
+  
 <br/>
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-**Happy to see you here!** 🤩
-
-Student at 1337 School focused on Software engineering, Web Development and competitive programming. 
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m [1337 School](https://1337.ma) student;
-- 🌱 I’m currently learning Softawre Archtect in my school; 
-- 💬 Ask me about anything, I would be happy to help;
-- 📫 How to reach me: [@Xperaz](https://twitter.com/OuhadouAzedine);
-- 📝[Resume]() <Under modification>
-
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/OuhadouAzedine?style=social)](https://twitter.com/OuhadouAzedine)
-[![Linkedin: imthepk](https://img.shields.io/badge/-AzedineOuhadou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azedine-ouhadou-56799519b/)](https://www.linkedin.com/in/azedine-ouhadou-56799519b/)
-[![GitHub HamzaEzzahiry](https://img.shields.io/github/followers/xperaz?label=follow&style=social)](https://github.com/Xperaz)
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
-<code><img height="20" src="https://www.seekpng.com/png/detail/80-803527_html5-css3-and-javascript-logos-html5-logo-png.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<a href="https://github.com/Xperaz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xperaz&theme=light" />
+  
+<a href="https://github.com/xperaz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xperaz&theme=gruvbox" />
 </a>
-<a href="https://github.com/Xperaz">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=xperaz&show_icons=true&theme=light&line_height=40" alt="xperaz's github stats"/>
+<br>
+<a href="https://github.com/xperaz">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=xperaz&show_icons=true&theme=gruvbox&line_height=40" alt="xperaz's github stats"/>
 </a>
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
