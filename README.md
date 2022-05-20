@@ -26,7 +26,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/OuhadouAzedine" target="blank"><img src="https://img.shields.io/twitter/follow/OuhadouAzedine?logo=twitter&style=for-the-badge" alt="OuhadouAzedine" /></a> </p>
 
-- 🔭 I’m currently working on **Push Swap**
 
 - 🌱 I’m currently learning **Javascript**
 
