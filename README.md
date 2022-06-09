@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://twitter.com/OuhadouAzedine" target="blank"><img src="https://img.shields.io/twitter/follow/OuhadouAzedine?logo=twitter&style=for-the-badge" alt="OuhadouAzedine" /></a> </p>
 
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript** And **C/C++** 
 
 - 💬 Ask me about **Anything**
 
