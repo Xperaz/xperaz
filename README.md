@@ -4,7 +4,7 @@ Hi there  |  I am Azedine Ouhadou 👋
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 🔭 I’m currently a Software Engineer Student at 1337 School
-- 🌱 I’m currently learning: Web Developement, Red teaming and more...
+- 🌱 I’m currently learning: Web Developement
 - 📫 How to reach me: twitter.com/OuhadouAzedine
 
 [<img align="center" alt="young | Twitter" width="38px" src="https://media.discordapp.net/attachments/635278809741918218/965786404942647306/unknown.png" />][twitter]
