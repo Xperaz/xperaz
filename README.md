@@ -24,5 +24,4 @@ Hi there  |  I am Azedine Ouhadou 👋
 </p>
 
 
-![xperaz's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=xperaz&theme=redical)
 
