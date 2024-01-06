@@ -26,6 +26,3 @@ Hi there  |  I am Azedine Ouhadou 👋
 
 ![xperaz's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=xperaz&theme=redical)
 
-### 👨‍💻 My 42 status
-
-[![aouhadou's 42 stats](https://badge42.vercel.app/api/v2/cl58hxs4f018809mdgpruzfzc/stats?cursusId=21&coalitionId=74)]
